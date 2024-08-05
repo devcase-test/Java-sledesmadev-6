@@ -1,1 +1,1 @@
-# Java-sledesmadev-6
+Dummy template
